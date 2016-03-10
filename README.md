@@ -1,7 +1,3 @@
-# bethelacchurch.github.io
-This repo holds assets for the organization's static site
-
-
 # L'Eglise Bethel Assemblee Chretienne
 
 Church of the Open Door, or COD as we affectionately call it, is a community of faith, passionate to see the grace of God transform lives, families, communities, and culture in Atlantic City.
