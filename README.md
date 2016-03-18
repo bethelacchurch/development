@@ -9,7 +9,7 @@
 * Author URI: [http://www.randychampagne.com](http://www.randychampagne.com)
 * License: GNU General Public License v2.0
 * License URI: [http://www.gnu.org/licenses/gpl-2.0.html](http://www.gnu.org/licenses/gpl-2.0.html)
-* Tech Stack: Wordpress
+* Tech Stack: HTML5 Bootstrap
 
 ## About
 
