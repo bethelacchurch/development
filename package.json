@@ -12,5 +12,9 @@
     "marked": "0.3.x",
     "rupture": "0.6.x",
     "stylus": "0.52.x"
+  },
+  "repository" : { 
+    "type" : "git"
+  , "url" : "https://github.com/champagne-randy/bethelacchurch.github.io.git"
   }
 }
