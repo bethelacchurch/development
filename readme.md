@@ -1,14 +1,17 @@
 ![mobble](http://cloud.scott.ee/images/mobble.png)
 
-# www.bethelac.org
+# Development
 
 * Status: ✔ In Development
 * Contributors: [@randychampagne](http://twitter.com/randychampagne)
-* Description: A mobile-first responsive site I am building for my church
+* Description: This repo holds the development environment for a mobile-first responsive site I am building for my church
 * Author: [Randy Champagne](http://www.randychampagne.com)
 * Author URI: [http://www.randychampagne.com](http://www.randychampagne.com)
 * License: GNU General Public License v3.0
 * License URI: [http://www.gnu.org/licenses/gpl-3.0.html](http://www.gnu.org/licenses/gpl-3.0.html)
+
+
+
 
 ## About
 
@@ -27,6 +30,7 @@ Behind this passion is our historic commitment to the Gospel of Christ and the W
 - clone this repo down and `cd` into the folder
 - run `npm install`
 - run `roots watch`
+
 
 
 
@@ -50,6 +54,7 @@ p this project was developped by #[span= developer]
 
 
 
+
 #### using SASS for css pre-processing
 
 - install accord and node-sass to [enable SASS compilation](https://github.com/jenius/accord/issues/108) 'npm install --save accord node-sass'
@@ -69,6 +74,7 @@ sass   = accord.load 'node-sass'
 
 
 
+
 #### using browserify for js pre-processing
 
 - install [roots-browserify](https://github.com/carrot/roots-browserify) module 'npm install roots-browserify --save'
@@ -82,6 +88,7 @@ sass   = accord.load 'node-sass'
 
 
 
+
 ### Deployment
 
 - If you just want to compile the production build, run `roots compile -e production` and it will build to public.
@@ -89,7 +96,8 @@ sass   = accord.load 'node-sass'
 
 
 
+
 ## Changelog
 
-####0.0.1
+###0.0.1
 * Initial development.
