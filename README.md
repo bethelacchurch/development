@@ -57,7 +57,7 @@ p this project was developped by #[span= developer]
 
 #### using SASS for css pre-processing
 
-- install accord and node-sass to [enable SASS compilation](https://github.com/jenius/accord/issues/108) 'npm install --save accord node-sass'
+- install accord and node-sass to [enable SASS compilation](https://github.com/jenius/accord/issues/108) ```npm install --save accord node-sass```
 - import accord and node-sass in dev and prod app manifest 
 ```
 accord = require 'accord'
